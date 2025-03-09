@@ -176,3 +176,4 @@ if ($total_pages > 1) {
 
 1. اذهب إلى Settings > Permalinks وانقر على "Save Changes" لإعادة تهيئة الروابط
 2. إذا كان لديك plugin للـ cache، قم بمسح الكاش
+   
